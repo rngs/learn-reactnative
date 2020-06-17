@@ -5,6 +5,11 @@
 # 前提
 - Xcode インストール済みであること
 
+```
+$ xcrun --version
+xcrun version 50.
+```
+
 # 環境構築
 
 ```
@@ -42,4 +47,3 @@ $ react-native init SampleProject
 $ cd {PATH TO}/SampleProject
 $ npx react-native run-ios
 ```
-
